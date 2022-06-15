@@ -3,9 +3,6 @@ This project contains 2 files (before the README.md).
 
 SourceCode.py is a combination of both scraping data code and Kafka procedure code to stream data to Mongodb (data lake).
 
-topcv.json: The data file was downloaded from mongodb(data lake).
-
-
 Scrapping data on Jupyter Notebook by python with selenium libs
 ![Untitled1](https://user-images.githubusercontent.com/100019383/173738115-7c42f943-5300-4f3a-a575-4a2e41f6eaa8.png)
 
