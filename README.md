@@ -43,15 +43,19 @@ Create file MongoSinkConnector.properties in config of kafka. Exemple:
         type.name=kafka-connect
         schemas.enable=false
 Start kafka: (Open three terminal)
+
     1. start zookeeper server
     bin/zookeeper-server-start.sh config/zookeeper-server.properties
+    
     2. start kafka server
     bin/kafka-server-start.sh config/server.properties
+    
     3. start connection
     bin/connect-standalone.sh config/connect-standalone.properties config/MongoSinkConnector.properties
 
 
 Test 
+
     1.Open terminal
     
     2.Create topic test:
