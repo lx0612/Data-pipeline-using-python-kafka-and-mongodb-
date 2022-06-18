@@ -7,7 +7,7 @@ Scrapping data on Jupyter Notebook by python with selenium libs
 ![Untitled1](https://user-images.githubusercontent.com/100019383/173738115-7c42f943-5300-4f3a-a575-4a2e41f6eaa8.png)
 
 
-Real estate properties data is pulled from topcv.vn using python.
+Jobs data is pulled from topcv.vn using python.
 ![Untitled](https://user-images.githubusercontent.com/100019383/173738078-a7be2c76-bfb9-4af8-b386-c50e41e014d8.png)
 
 
